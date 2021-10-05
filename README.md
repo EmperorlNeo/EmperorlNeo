@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Emperor|Neo
+- 👀 I’m interested in computer engineering.
+- 🖥 I'm studying at UC Davis.
+- 🌱 I’m currently learning C.
+- 📡 I'm looking to collaborate on personal projects.
+- 📫 You can reach me at my email, neomartindelcampo2001@gmail.com
